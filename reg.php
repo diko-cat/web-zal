@@ -1,1 +1,1 @@
-Daniyar
+Daniyar Seypil
