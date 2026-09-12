@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>admin_panel</title>
+    </head>
+    <body>
+        <h1>Welcome to My Website</h1>
+        <p>This is a simple paragraph.</p>
+    </body>
+</html>
